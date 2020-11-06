@@ -67,6 +67,7 @@
             $popupMessage.addClass('floating-wpp-message');
             $inputMessage.addClass('floating-wpp-input-message');
             $btnSend.addClass('floating-wpp-btn-send');
+            $textarea.addClass('textAreaClass');
 
             $popupMessage.text(settings.popupMessage);
             $textarea.val(settings.message);

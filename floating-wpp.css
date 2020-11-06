@@ -102,6 +102,9 @@
     font-family: inherit;
     font-size: inherit;
     resize: none;
+}
+
+.textAreaClass {
     height: 21px;
 }
 
