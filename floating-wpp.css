@@ -1,6 +1,6 @@
 .floating-wpp {
     position: fixed;
-    bottom: 15px;
+    bottom: 70px;
     left: 15px;
     font-size: 14px;
     transition: bottom 0.2s;
@@ -102,6 +102,7 @@
     font-family: inherit;
     font-size: inherit;
     resize: none;
+    height: 21px;
 }
 
 .floating-wpp .floating-wpp-btn-send {
