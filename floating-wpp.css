@@ -91,7 +91,7 @@
     align-items: center;
 }
 
-.floating-wpp .floating-wpp-input-message textarea {
+.floating-wpp .floating-wpp-input-message input {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-shadow: none;
@@ -104,8 +104,8 @@
     resize: none;
 }
 
-.textAreaClass {
-    height: 21px;
+input {
+    height: auto;
 }
 
 .floating-wpp .floating-wpp-btn-send {
